@@ -34,7 +34,7 @@ export default function ListSurahPage({ surahs }) {
       <main className="container content">
         <div className="bg-blue-700 py-5 px-4 my-5 rounded-md shadow text-white">
           <h2 className="text-lg font-semibold text-xl tracking-wider">
-            Daftar Surat dalam Al-Quran
+            القرآن الكريم <br></br>Daftar Surat dalam Al-Quran
           </h2>
         </div>
         <div className="my-4">
