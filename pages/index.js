@@ -30,13 +30,14 @@ export default function ListSurahPage({ surahs }) {
   return (
     <>
       <Header />
-
-      <main className="container content">
+      <div className="container  text-center">
         <div className="bg-blue-700 py-5 px-4 my-5 rounded-md shadow text-white">
           <h2 className="text-lg font-semibold text-xl tracking-wider">
             Daftar Surat dalam Al-Quran
           </h2>
         </div>
+      </div>
+      <main className="container content">
         <div className="my-4">
           <input
             type="text"
